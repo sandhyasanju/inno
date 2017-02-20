@@ -1,0 +1,21 @@
+{
+  "name": "socket-chat-aplication",
+  "version": "0.0.1",
+  "description": "\"my first app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"hello\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"\""
+  },
+  "keywords": [
+    "\"\""
+  ],
+  "author": "\"sandhya\"",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
